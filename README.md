@@ -1,2 +1,1 @@
-# Decibel-Meter
-Decibel ("loudness") meter using Matlab.
+## Decibel Meter
